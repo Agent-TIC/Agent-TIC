@@ -1,4 +1,4 @@
-# 🤖 Hello, I'm Agent-TIC | Agentic Systems Architect
+# 🤖 Hello, I'm Sheyi Teluwo | Agentic Systems Architect
 
 Bridging the gap between **High-Level Commercial Strategy** and **Autonomous AI Execution**. I specialize in solving the 2026 "Production Gap"—transitioning AI from simple chat interfaces to reliable, multi-agent enterprise workflows.
 
@@ -32,7 +32,7 @@ I am currently documenting an intensive, 42-day build-out of production-ready Ag
 
 ### 📬 Connect With Me
 * **LinkedIn:** [linkedin.com/in/sheyi](https://www.linkedin.com/in/sheyi/)
-* **Technical Logs:** Explore the daily builds in my [agentic-systems-architect-sprint](https://github.com/Agent-TIC/agentic-systems-architect-sprint) repository.
+* **Technical Logs:** Explore the daily builds in my [agentic-systems-architect-sprint](https://github.com/sheyiteluwo-ai/agentic-systems-architect-sprint) repository.
 
 ---
 *"Building the logic that turns AI from a tool into a teammate."*
