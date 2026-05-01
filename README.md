@@ -24,9 +24,9 @@ I am currently documenting an intensive, 42-day build-out of production-ready Ag
 ### 📁 Featured Sprint Projects
 | Phase | Project | Core Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | **Local Knowledge Architect** | Advanced RAG / PDF Logic | [Video Demo Day 14] |
-| **02** | **Autonomous Research Crew** | Multi-Agent Orchestration | [Video Demo Day 28] |
-| **03** | **Enterprise MCP Assistant** | Local File & DB Access | [Video Demo Day 42] |
+| **01** | **FCA Regulatory Intelligence Bot**         | LangChain · ChromaDB · LangSmith Evals        | [Video Demo Day 14] |
+| **02** | **Magic Circle Legal Research Crew**        | CrewAI · LangGraph · HITL Gates               | [Video Demo Day 28] |
+| **03** | **Enterprise MCP Architect — NHS/Barclays** | MCP · LangSmith Safety Evals · Docker · CI/CD | [Video Demo Day 42] |
 
 ---
 
