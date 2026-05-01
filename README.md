@@ -1,38 +1,38 @@
-# 🤖 Hello, I'm Sheyi Teluwo | Agentic Systems Architect
+# 🤖 Sheyi | Agentic Systems Architect (UK Enterprise)
 
-Bridging the gap between **High-Level Commercial Strategy** and **Autonomous AI Execution**. I specialize in solving the 2026 "Production Gap"—transitioning AI from simple chat interfaces to reliable, multi-agent enterprise workflows.
+Bridging the gap between **High-Level Commercial Strategy** and **Autonomous AI Execution**. I specialize in building reliable, monitored, enterprise-grade autonomous workflows for **UK Finance, Legal, and Healthcare**.
 
 ---
 
-### 🚀 Current Mission: The 6-Week Architecture Sprint
-I am currently documenting an intensive, 42-day build-out of production-ready Agentic systems. This sprint focuses on moving beyond the "chatbot" and into autonomous system design.
+### 🚀 The 42-Day "Production-Gap" Sprint
+I am currently documenting an intensive 42-day build-out of three production-ready Agentic AI systems. Every commit is a step toward solving specific regulatory and operational challenges in the UK market.
 
-* **Phase 1: Foundations** (Python, API Orchestration, Vector Memory) - *In Progress*
-* **Phase 2: Orchestration** (Multi-agent teams with CrewAI & LangGraph)
-* **Phase 3: Enterprise Architect** (MCP Integrations, Safety Evals & Observability)
+#### 🏗️ The Roadmap
+*   **Phase 1: FCA Regulatory Intelligence Bot (Days 1-14)** 
+    *   *Focus:* RAG system for querying thousands of FCA documents with LangSmith observability.
+*   **Phase 2: Multi-Agent Legal Research Crew (Days 15-28)** 
+    *   *Focus:* Automating Magic Circle legal due diligence using CrewAI & LangGraph.
+*   **Phase 3: Enterprise MCP Architect (Days 29-42)** 
+    *   *Focus:* Model Context Protocol integration for NHS and Barclays-scale production use cases.
 
 ---
 
 ### 🛠️ Technical Stack
-* **Languages:** Python (Advanced Automation & Integration)
-* **Frameworks:** CrewAI, LangGraph, LangChain
-* **Orchestration:** Model Context Protocol (MCP), LangSmith (Evals), PydanticAI
-* **Infrastructure:** Vector Databases (Chroma, Pinecone), Streamlit, Vercel
+*   **Frameworks:** LangChain, LangGraph, CrewAI, Model Context Protocol (MCP)
+*   **Observability:** LangSmith (Tracing, Evals, Human-in-the-Loop gates)
+*   **Models:** GPT-4o, Claude 3.5 Sonnet, Open Source LLMs
+*   **Infrastructure:** Python 3.12, ChromaDB, FastAPI, Docker, GitHub Actions
 
 ---
 
-### 📁 Featured Sprint Projects
-| Phase | Project | Core Tech | Status |
-| :--- | :--- | :--- | :--- |
-| **01** | **FCA Regulatory Intelligence Bot**         | LangChain · ChromaDB · LangSmith Evals        | [Video Demo Day 14] |
-| **02** | **Magic Circle Legal Research Crew**        | CrewAI · LangGraph · HITL Gates               | [Video Demo Day 28] |
-| **03** | **Enterprise MCP Architect — NHS/Barclays** | MCP · LangSmith Safety Evals · Docker · CI/CD | [Video Demo Day 42] |
+### 📁 Live Sprint Repository
+👉 **[View the Active Build Log: agentic-systems-architect-sprint](https://github.com/sheyiteluwo-ai/agentic-systems-architect-sprint)**
 
 ---
 
-### 📬 Connect With Me
-* **LinkedIn:** [linkedin.com/in/sheyi](https://www.linkedin.com/in/sheyi/)
-* **Technical Logs:** Explore the daily builds in my [agentic-systems-architect-sprint](https://github.com/sheyiteluwo-ai/agentic-systems-architect-sprint) repository.
+### 📬 Strategic Alignment
+*   **LinkedIn:** [linkedin.com/in/sheyi](https://www.linkedin.com/in/sheyi/)
+*   **Targeting:** Permanent roles (£95k+) | Contract roles (£850+/day)
+*   **Sectors:** Financial Services (FCA/PRA), Legal (Magic Circle), NHS Digital, Big 4 Consulting.
 
----
-*"Building the logic that turns AI from a tool into a teammate."*
+*"I don't build chatbots. I build autonomous systems that understand UK regulation and enterprise logic."*
